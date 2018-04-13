@@ -26,6 +26,7 @@ This is a single page theme called LoopLAB using Bootstrap 4 Beta.It uses the la
 <img src="https://github.com/ajraj27/loopLAB/blob/master/src/screenshots/Explore.png" />
 <img src="https://github.com/ajraj27/loopLAB/blob/master/src/screenshots/create.png" />
 <img src="https://github.com/ajraj27/loopLAB/blob/master/src/screenshots/share.png" />
+<img src="https://github.com/ajraj27/loopLAB/blob/master/src/screenshots/modal.png" />
 
 <h4>Collapse button for smaller screens.
 
